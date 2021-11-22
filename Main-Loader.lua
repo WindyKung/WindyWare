@@ -17,6 +17,14 @@ end
 
 -- VVV --
 
-if game.PlaceId == 301549746 then
+if game.PlaceId == 301549746 then --Counter Blox
     loadstring(game:HttpGet("https://raw.githubusercontent.com/WindyKung/WindyWare/main/GameLoader/CB_Loader.lua"))()
+end
+
+if game.PlaceId == 286090429 then --Arsenal
+    loadstring(game:HttpGet(""))()
+end
+
+if game.PlaceId == 292439477 then -- Phantom Force
+    loadstring(game:HttpGet(""))()
 end
