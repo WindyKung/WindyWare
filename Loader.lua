@@ -1,3 +1,4 @@
+--[[
 local _gamelists = {
     CB_Loader = 301549746, --Counter Blox
     AS_Loader = 286090429, --Arsenal
@@ -11,4 +12,11 @@ for i,v in pairs(_gamelists) do
   if game.PlaceId == v then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/WindyKung/WindyWare/main/GameLoader/" .. i .. ".lua"))()
   end
+end
+]]
+
+-- VVV --
+
+if game.PlaceId == 301549746 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/WindyKung/WindyWare/main/GameLoader/CB_Loader.lua"))()
 end
