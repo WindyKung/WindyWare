@@ -9,6 +9,6 @@ local _gamelists = {
 
 for i,v in pairs(_gamelists) do
   if game.PlaceId == v then
-     loadstring(game:HttpGet("https://raw.githubusercontent.com/WindyKung/WindyWare/main/GameLoader/" .. i .. ".lua"))()
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/WindyKung/WindyWare/main/GameLoader/" .. i .. "))()
   end
 end
