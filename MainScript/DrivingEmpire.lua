@@ -1,1 +1,1 @@
-game.Players,LocalPlayer:Kick("game updated lol")
+game.Players.LocalPlayer:Kick("game updated lol")
