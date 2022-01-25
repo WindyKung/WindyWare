@@ -1,3 +1,5 @@
+wait(3)
+
 -- Autofarm For Super Clicker Simulator | 8579989858
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
