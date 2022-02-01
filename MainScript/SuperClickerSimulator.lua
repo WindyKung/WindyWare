@@ -1,5 +1,5 @@
--- Autofarm For Super Clicker Simulator | 8579989858
 game:GetService("Players").LocalPlayer:Kick("\n\nCopied New Script To Clipboard\n")
+
 setclipboard([[--Main Setting
 _G.AutoTap = true
 _G.BringDiamante = true
