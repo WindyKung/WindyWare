@@ -1,5 +1,4 @@
---[[
-Recommended Setting
+--[[Recommended Setting
 
 --Main Setting
 _G.AutoTap = true
