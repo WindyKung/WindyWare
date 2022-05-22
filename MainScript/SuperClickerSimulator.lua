@@ -1,4 +1,8 @@
-game:GetService("Players").LocalPlayer:Kick("\n\nCopied New Script To Clipboard\n")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title    = "WindyWare";
+    Text     = "Copied New Script To Clipboard";
+    Duration = 5
+})
 
 setclipboard([[--Main Setting
 _G.AutoTap = true
