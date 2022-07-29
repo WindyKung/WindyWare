@@ -1,8 +1,4 @@
-for i,v in pairs (game:GetService("Players").LocalPlayer.PlayerGui:GetChildren()) do
-	if v.Name == "ScreenGui" then
-	    game:GetService("Players").LocalPlayer:Kick("\n\nFlaged\n")
-	end
-end
+
 
 
 --Boronide™ Premium Obfuscation, v0.5.0
